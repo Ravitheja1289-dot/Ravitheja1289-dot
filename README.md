@@ -64,12 +64,74 @@
 - 🎯 Contribute to open-source and collaborate
 
 ---
+---
 
-### 💡 Featured Projects
+### 🚀 Projects
 
-> You can add your project cards here using shields or custom markdown  
-> Or use GitHub Projects or Repos pinned feature to highlight your top repos
+Here are a few cool things I've built 👇
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌐 Portfolio Website</h3>
+      <p>
+        A sleek, dark-themed developer portfolio built using React, Tailwind CSS, and Framer Motion.
+      </p>
+      <p align="center">
+        <a href="https://your-portfolio-link.com" target="_blank">
+          🔗 View Project
+        </a> •
+        <a href="https://github.com/your-username/portfolio" target="_blank">
+          🛠️ Source Code
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 Mindful Strength</h3>
+      <p>
+        An AI-powered mental health chatbot that supports users with daily mental well-being and emotional health tracking.
+      </p>
+      <p align="center">
+        <a href="https://your-chatbot-link.com" target="_blank">
+          🔗 View Project
+        </a> •
+        <a href="https://github.com/your-username/mindful-strength" target="_blank">
+          🛠️ Source Code
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚦 Move Smart</h3>
+      <p>
+        A real-time automated traffic light control system using YOLO and TensorFlow, prioritizing emergency vehicles.
+      </p>
+      <p align="center">
+        <a href="https://your-traffic-system-link.com" target="_blank">
+          🔗 View Project
+        </a> •
+        <a href="https://github.com/your-username/move-smart" target="_blank">
+          🛠️ Source Code
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛡️ Cyber Shield</h3>
+      <p>
+        A fraud detection system to identify fake transactions and phishing emails using NLP and ML models.
+      </p>
+      <p align="center">
+        <a href="https://your-cybershield-link.com" target="_blank">
+          🔗 View Project
+        </a> •
+        <a href="https://github.com/your-username/cyber-shield" target="_blank">
+          🛠️ Source Code
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🧩 GitHub Contributions Graph
