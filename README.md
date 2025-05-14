@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=Ravitheja1289-dot&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </p>
 
 ---
@@ -23,19 +23,7 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,py,java,html,css,tailwind,nodejs,express,mongodb,postgres,git,github,figma,vscode,vercel,netlify,docker" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,tensorflow,opencv,machinelearning,java,html,css,tailwind,nodejs,express,mongodb,postgres,git,github,figma,vscode,vercel,netlify,docker" />
 </p>
 
 ---
@@ -43,7 +31,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=gruvbox&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravitheja1289-dot&theme=gruvbox&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -51,7 +39,7 @@
 ### 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=Ravitheja1289-dot&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
@@ -86,13 +74,7 @@
 
 ### 🧩 GitHub Contributions Graph
 
-[![Ravi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🗂️ Most Used Repositories (Dynamic Pins)
-
-> Visit [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) to customize more
+[![Ravi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravitheja1289-dot&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
