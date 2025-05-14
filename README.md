@@ -23,7 +23,7 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,tensorflow,opencv,machinelearning,java,html,css,tailwind,nodejs,express,mongodb,postgres,git,github,figma,vscode,vercel,netlify,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,tensorflow,opencv,ai,java,flutter,flask,firebase,streamlit,pandas,numpy,ollama,OAuth,tailwind,nodejs,express,mongodb,postgres,git,github,figma,vscode,vercel,netlify,docker,html,css" />
 </p>
 
 ---
