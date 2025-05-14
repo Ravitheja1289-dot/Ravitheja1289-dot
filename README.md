@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=Ravitheja1289-dot&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </p>
 
 ---
@@ -31,11 +31,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravitheja1289-dot&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravitheja1289-dot&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=gruvbox&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravitheja1289-dot&theme=gruvbox&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ### 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=Ravitheja1289-dot&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
@@ -59,10 +59,10 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
-  <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
-  <a href="https://your-portfolio.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetexplorer.svg" alt="website" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/ravithejareddy1289/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:ravithejareddy1289@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
+  <a href="https://x.com/Ravitheja1289" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
+  <a href="https://portfolio-two-umber-27.vercel.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetexplorer.svg" alt="website" height="30" width="30" /></a>
 </p>
 
 ---
@@ -86,7 +86,7 @@
 
 ### 🧩 GitHub Contributions Graph
 
-[![Ravi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ravi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravitheja1289-dot&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
