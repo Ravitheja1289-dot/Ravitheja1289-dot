@@ -1,86 +1,99 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | AI Explorer | Open Source Contributor</h3>
+<h3 align="center">A Passionate Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Code.+Create.+Collaborate.;Hackathons+%7C+DSA+%7C+AI+%7C+Web+Dev+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Code.+Create.+Collaborate." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🎓 B.Tech student at MRCET | Finalist @ Megathon IIIT-H
-- 🏆 2nd prize in Cyber Security Hackathon | Attendee @ BITS Pilani Workshop
-- 🛠️ Web Developer | React, TypeScript, Python | HackStack Team Member
-- 🤖 Building smart AI projects: traffic recognition, mental health bots, deepfake detection
-- 🌱 Learning systems design, LLMs, TensorFlow, OpenCV
-- 📫 Fun Fact: I turn ☕ into code & love gaming, cricket, and Elon Musk's biography!
+- 🌱 Currently learning: **AI, ML, Deep Learning, Systems Design**
+- 🔭 Working on: **Full-stack projects, Open Source, and Hackathon ideas**
+- 🤝 Always open to: **Collaborations, Internships, and Networking**
+- ⚡ Fun fact: I believe good coffee + clean code = perfect combo ☕
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Languages and Tools:
 
-### 🚀 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🧠 AI/ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🔧 Backend & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,py,java,html,css,tailwind,nodejs,express,mongodb,postgres,git,github,figma,vscode,vercel,netlify,docker" />
+</p>
 
 ---
 
-## 📍 My Journey
+### 📈 GitHub Stats
 
-```mermaid
-journey
-    title Ravi's Dev Journey 🚀
-    section 2022
-      Started coding and exploring Python: 5
-      Built first React app: 4
-    section 2023
-      Joined hackathons, started DSA: 4
-      Worked on AI & ML projects: 3
-    section 2024
-      Finalist @ Megathon, 2nd Prize @ Hackathon: 5
-      Mastering React, TypeScript, and AI tools: 4
-    section 2025
-      Targeting Internships @ Google, Citadel, JPMC: 5
-      Contributing to Open Source & Scaling Projects: 5
-🌐 Connect With Me
-<p align="left"> <a href="https://linkedin.com/in/your-linkedin" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:your.email@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://twitter.com/your-twitter" target="_blank"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://your-portfolio.com" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=web&logoColor=white"/> </a> </p>
-✨ Quote I Live By
-“Stay hungry. Stay foolish.” – Steve Jobs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-💬 Ping Me For:
-🔗 Internships / Collab
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-💼 Startup tech consultation
+---
 
-🧠 AI + Web + Mobile integration
+### 🏆 GitHub Trophies
 
-🎙️ Public speaking / workshops
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=gruvbox&column=7&margin-w=15&margin-h=15" />
+</p>
 
-<h3 align="center">💖 Thank you for visiting my profile! Let's connect & build something awesome.</h3>
+---
+
+### 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
+  <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
+  <a href="https://your-portfolio.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetexplorer.svg" alt="website" height="30" width="30" /></a>
+</p>
+
+---
+
+### ⚙️ My Workflow
+
+- ⌨️ Write clean, scalable code
+- 🔍 Solve DSA & Leetcode problems
+- 🧠 Learn new tools & frameworks
+- 🧪 Experiment and build
+- 🎯 Contribute to open-source and collaborate
+
+---
+
+### 💡 Featured Projects
+
+> You can add your project cards here using shields or custom markdown  
+> Or use GitHub Projects or Repos pinned feature to highlight your top repos
+
+---
+
+### 🧩 GitHub Contributions Graph
+
+[![Ravi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🗂️ Most Used Repositories (Dynamic Pins)
+
+> Visit [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) to customize more
+
+---
+
+<h3 align="center">Show some ❤️ by starring some repositories!</h3>
