@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Ravi%20Teja%20Reddy&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Startup%20Founder&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Ravi%20Teja%20Reddy&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&width=820&lines=Building+scalable+SaaS+products+and+AI+Agents;Full+Stack+Engineering+%26+System+Design;Engineering+solutions+that+solve+real-world+problems" alt="Typing SVG" />
@@ -9,10 +9,10 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/ravithejareddy1289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Ravitheja1289"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/Ravitheja1289-dot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:ravithejareddy1289@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://helition.com"><img src="https://img.shields.io/badge/Helition-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Helition Website"/></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
+<a href="https://ravi1289portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
@@ -147,18 +147,27 @@ An infrastructure vulnerability scanning and automated threat detection system d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ravitheja1289&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&icon_color=7DD3FC&text_color=94A3B8&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravitheja1289&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ravitheja1289-dot&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravitheja1289-dot&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Ravitheja1289&theme=dark&hide_border=true&background=0D1117&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&stroke=00000000&currStreakNum=E2E8F0&sideNums=94A3B8" width="48%"/>
-<img src="https://komarev.com/ghpvc/?username=Ravitheja1289&style=for-the-badge&color=212121&labelColor=0D1117&label=PROFILE+VIEWS" width="25%" style="margin-bottom: 20px;" />
+<img src="https://streak-stats.demolab.com?user=Ravitheja1289-dot&theme=dark&hide_border=true&background=0D1117&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&stroke=00000000&currStreakNum=E2E8F0&sideNums=94A3B8" width="48%"/>
+<img src="https://komarev.com/ghpvc/?username=Ravitheja1289-dot&style=for-the-badge&color=212121&labelColor=0D1117&label=PROFILE+VIEWS" width="25%" style="margin-bottom: 20px;" />
 
 <br/><br/>
 
 <!-- Reliable Contribution Graph Alternative -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravitheja1289&theme=nord_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravitheja1289-dot&theme=nord_dark" width="100%"/>
+
+<br/><br/>
+
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravitheja1289-dot/Ravitheja1289-dot/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravitheja1289-dot/Ravitheja1289-dot/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ravitheja1289-dot/Ravitheja1289-dot/output/dist/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
