@@ -147,11 +147,6 @@ An infrastructure vulnerability scanning and automated threat detection system d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ravitheja1289-dot&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravitheja1289-dot&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=Ravitheja1289-dot&theme=dark&hide_border=true&background=0D1117&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&stroke=00000000&currStreakNum=E2E8F0&sideNums=94A3B8" width="48%"/>
 <img src="https://komarev.com/ghpvc/?username=Ravitheja1289-dot&style=for-the-badge&color=212121&labelColor=0D1117&label=PROFILE+VIEWS" width="25%" style="margin-bottom: 20px;" />
 
