@@ -10,6 +10,7 @@
 
 <a href="https://www.linkedin.com/in/ravithejareddy1289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/Ravitheja1289-dot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/Ravitheja_Reddy_1289/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="mailto:ravithejareddy1289@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://helition.com"><img src="https://img.shields.io/badge/Helition-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Helition Website"/></a>
 <a href="https://ravi1289portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
